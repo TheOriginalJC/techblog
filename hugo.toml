@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://theoriginaljc.github.io/techblog/'
 languageCode = 'en-us'
 title = 'The Original JC'
 theme = "ananke"
