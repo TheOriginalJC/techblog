@@ -18,8 +18,6 @@ The act of learning new things well enough to write about them is far more effec
 ![A stick person happily jumping into the deep end of a swimming pool](/hello-world/02.png)
 ![hilarious"](/hello-world/03.png)
 
-![A headstone with the text "RIP. He came to a sticky end"](/hello-world/hilarious.jpg)
-
 The various models of learning created by educational psychologists support that theory. If we focus on just one model, Bloom's Taxonomy, the closer you get to the top, the dirtier your hands get (a motto for politicians?).
 
 ![Bloom's taxonomy as a triangle"](/hello-world/bloomstaxonomy.JPG)
