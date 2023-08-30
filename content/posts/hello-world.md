@@ -1,7 +1,6 @@
 ---
 title: "Hello World"
-date: 2023-08-30T22:05:24Z
-draft: false
+date: 2023-08-30T12:00:24Z
 ---
 Introduction
 ------------
