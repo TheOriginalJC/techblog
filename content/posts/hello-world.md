@@ -32,15 +32,15 @@ What does this have to do with anything?
 -------
 I wouldn't want to follow such a system with complete rigidity, and if we look at the process of creating this blog from conception to this post, it probably went something like this - 
 
-I already had some knowlege and understanding relating to the goal, and I was able to settle on Azure static sites for hosting to get a quick win.
+I already had some knowlege and understanding relating to the goal, and I was able to settle on Azure static sites for hosting to get a quick win (although I later switched to github codespaces because it's free).
 
-I understood enough about static site generators to know I wanted to use an SSG rather than hand code all the html and deal with all the hassle of updating it.  However, I didn't know enough to feel comfortable picking an SSG to use. This required a step back, some research into different SSG's, plus a little play around writting my own SSG in python.
+I understood enough about static site generators to know I wanted to use an SSG rather than hand code all the html and deal with all the hassle of updating it.  However, I didn't know enough to feel comfortable choosing one over the others. This required a step back, some research into different SSG's, plus a little play around writting my own in python.
 
 This part of the project was a bit of a loop around the bottom of the triangle, reading about (and remembering) different SSG's and or the neccessary parts of Python I was unfamiliar with. I had to understand each of those things enough to apply that knowledge and cobble together small prototypes.
 
 Eventually, with enough familiarity of the different frameworks and a basic one of my own, I was able to analyse the benefits and difficulties presented by each approach, and evaluate each against the other in relation to my requirements.
 
-This is a heavily condensed recollection to keep the post concise. I also had to think about other things like analytics, source control and deployment. In some cases, even though I had limited knowledge, I've used something because I wanted to learn more about it.
+This is a heavily condensed recollection to keep the post concise. I also had to think about other things and in some cases, even though I had limited knowledge in one area, I've used something because I wanted to learn more about it.
 
 This is the end, I hope it's not too disappointing.
 
